@@ -1,0 +1,828 @@
+[INFO][2016-12-26 02:39:47,150][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 02:39:47,151][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 02:39:47,715][DICLOG]init core library ok use time :540
+[INFO][2016-12-26 02:39:48,524][DICLOG]init ngram ok use time :802
+[INFO][2016-12-26 02:42:51,655][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 02:42:51,656][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 02:42:52,183][DICLOG]init core library ok use time :517
+[INFO][2016-12-26 02:42:52,988][DICLOG]init ngram ok use time :800
+[INFO][2016-12-26 03:18:12,266][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:18:12,267][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:18:12,826][DICLOG]init core library ok use time :546
+[INFO][2016-12-26 03:18:13,638][DICLOG]init ngram ok use time :749
+[INFO][2016-12-26 03:18:36,855][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:18:36,856][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:18:37,379][DICLOG]init core library ok use time :509
+[INFO][2016-12-26 03:18:38,181][DICLOG]init ngram ok use time :748
+[INFO][2016-12-26 03:19:43,303][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:19:43,305][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:19:43,868][DICLOG]init core library ok use time :552
+[INFO][2016-12-26 03:19:44,692][DICLOG]init ngram ok use time :799
+[INFO][2016-12-26 03:20:59,839][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:20:59,839][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:21:00,444][DICLOG]init core library ok use time :592
+[INFO][2016-12-26 03:21:01,320][DICLOG]init ngram ok use time :850
+[INFO][2016-12-26 03:28:35,411][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:28:35,413][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:28:35,963][DICLOG]init core library ok use time :539
+[INFO][2016-12-26 03:28:36,603][DICLOG]init ngram ok use time :579
+[INFO][2016-12-26 03:34:25,769][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:34:25,771][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:34:26,353][DICLOG]init core library ok use time :564
+[INFO][2016-12-26 03:34:27,237][DICLOG]init ngram ok use time :858
+[INFO][2016-12-26 03:38:05,561][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:38:05,563][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:38:06,153][DICLOG]init core library ok use time :576
+[INFO][2016-12-26 03:38:06,986][DICLOG]init ngram ok use time :809
+[INFO][2016-12-26 03:39:01,162][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 03:39:01,163][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 03:39:01,692][DICLOG]init core library ok use time :518
+[INFO][2016-12-26 03:39:02,531][DICLOG]init ngram ok use time :783
+[INFO][2016-12-26 08:05:54,293][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:05:54,294][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:05:54,806][DICLOG]init core library ok use time :501
+[INFO][2016-12-26 08:05:55,607][DICLOG]init ngram ok use time :747
+[INFO][2016-12-26 08:35:04,666][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:35:04,666][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:35:05,191][DICLOG]init core library ok use time :514
+[INFO][2016-12-26 08:35:06,010][DICLOG]init ngram ok use time :765
+[INFO][2016-12-26 08:35:36,029][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:35:36,030][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:35:36,562][DICLOG]init core library ok use time :521
+[INFO][2016-12-26 08:35:37,391][DICLOG]init ngram ok use time :775
+[INFO][2016-12-26 08:42:04,145][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:42:04,146][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:42:04,728][DICLOG]init core library ok use time :569
+[INFO][2016-12-26 08:42:05,601][DICLOG]init ngram ok use time :815
+[INFO][2016-12-26 08:42:41,207][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:42:41,208][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:42:41,783][DICLOG]init core library ok use time :563
+[INFO][2016-12-26 08:42:42,660][DICLOG]init ngram ok use time :820
+[INFO][2016-12-26 08:43:09,061][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:43:09,063][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:43:09,626][DICLOG]init core library ok use time :539
+[INFO][2016-12-26 08:43:10,508][DICLOG]init ngram ok use time :822
+[INFO][2016-12-26 08:44:14,952][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:44:14,953][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:44:15,544][DICLOG]init core library ok use time :579
+[INFO][2016-12-26 08:44:16,429][DICLOG]init ngram ok use time :826
+[INFO][2016-12-26 08:44:39,741][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:44:39,743][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:44:40,315][DICLOG]init core library ok use time :560
+[INFO][2016-12-26 08:44:41,198][DICLOG]init ngram ok use time :825
+[INFO][2016-12-26 08:44:52,720][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:44:52,721][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:44:53,332][DICLOG]init core library ok use time :599
+[INFO][2016-12-26 08:44:54,236][DICLOG]init ngram ok use time :845
+[INFO][2016-12-26 08:52:27,647][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 08:52:27,648][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 08:52:28,270][DICLOG]init core library ok use time :609
+[INFO][2016-12-26 08:52:29,212][DICLOG]init ngram ok use time :880
+[INFO][2016-12-26 14:30:04,346][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:30:04,347][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:30:04,917][DICLOG]init core library ok use time :552
+[INFO][2016-12-26 14:30:05,708][DICLOG]init ngram ok use time :736
+[INFO][2016-12-26 14:33:12,867][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:33:12,869][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:33:13,381][DICLOG]init core library ok use time :502
+[INFO][2016-12-26 14:33:14,181][DICLOG]init ngram ok use time :777
+[INFO][2016-12-26 14:39:42,079][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:39:42,080][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:39:42,583][DICLOG]init core library ok use time :493
+[INFO][2016-12-26 14:39:43,385][DICLOG]init ngram ok use time :778
+[INFO][2016-12-26 14:40:04,605][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:40:04,606][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:40:05,121][DICLOG]init core library ok use time :502
+[INFO][2016-12-26 14:40:05,927][DICLOG]init ngram ok use time :752
+[INFO][2016-12-26 14:42:37,534][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:42:37,534][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:42:38,034][DICLOG]init core library ok use time :488
+[INFO][2016-12-26 14:42:38,832][DICLOG]init ngram ok use time :743
+[INFO][2016-12-26 14:47:13,551][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:47:13,552][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:47:14,050][DICLOG]init core library ok use time :487
+[INFO][2016-12-26 14:47:14,838][DICLOG]init ngram ok use time :732
+[INFO][2016-12-26 14:48:46,379][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:48:46,380][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:48:46,890][DICLOG]init core library ok use time :499
+[INFO][2016-12-26 14:48:47,676][DICLOG]init ngram ok use time :732
+[INFO][2016-12-26 14:49:54,585][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:49:54,585][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:49:55,075][DICLOG]init core library ok use time :479
+[INFO][2016-12-26 14:49:55,866][DICLOG]init ngram ok use time :738
+[INFO][2016-12-26 14:50:11,484][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:50:11,485][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:50:12,019][DICLOG]init core library ok use time :522
+[INFO][2016-12-26 14:50:12,937][DICLOG]init ngram ok use time :860
+[INFO][2016-12-26 14:51:25,080][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:51:25,081][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:51:25,606][DICLOG]init core library ok use time :514
+[INFO][2016-12-26 14:51:26,411][DICLOG]init ngram ok use time :750
+[INFO][2016-12-26 14:51:39,472][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:51:39,473][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:51:40,004][DICLOG]init core library ok use time :521
+[INFO][2016-12-26 14:51:40,810][DICLOG]init ngram ok use time :749
+[INFO][2016-12-26 14:52:30,653][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:52:30,654][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:52:31,156][DICLOG]init core library ok use time :491
+[INFO][2016-12-26 14:52:31,949][DICLOG]init ngram ok use time :739
+[INFO][2016-12-26 14:53:26,305][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:53:26,306][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:53:26,810][DICLOG]init core library ok use time :493
+[INFO][2016-12-26 14:53:27,605][DICLOG]init ngram ok use time :741
+[INFO][2016-12-26 14:57:49,300][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:57:49,301][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:57:49,805][DICLOG]init core library ok use time :493
+[INFO][2016-12-26 14:57:50,603][DICLOG]init ngram ok use time :741
+[INFO][2016-12-26 14:57:58,490][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:57:58,491][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:57:58,997][DICLOG]init core library ok use time :495
+[INFO][2016-12-26 14:57:59,816][DICLOG]init ngram ok use time :765
+[INFO][2016-12-26 14:58:13,623][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 14:58:13,624][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 14:58:14,121][DICLOG]init core library ok use time :487
+[INFO][2016-12-26 14:58:14,923][DICLOG]init ngram ok use time :746
+[INFO][2016-12-26 15:01:23,410][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:01:23,411][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:01:23,909][DICLOG]init core library ok use time :487
+[INFO][2016-12-26 15:01:24,708][DICLOG]init ngram ok use time :742
+[INFO][2016-12-26 15:01:49,592][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:01:49,593][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:01:50,085][DICLOG]init core library ok use time :482
+[INFO][2016-12-26 15:01:50,987][DICLOG]init ngram ok use time :846
+[INFO][2016-12-26 15:02:12,388][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:02:12,389][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:02:12,879][DICLOG]init core library ok use time :478
+[INFO][2016-12-26 15:02:13,672][DICLOG]init ngram ok use time :740
+[INFO][2016-12-26 15:02:23,532][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:02:23,532][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:02:24,059][DICLOG]init core library ok use time :516
+[INFO][2016-12-26 15:02:24,904][DICLOG]init ngram ok use time :823
+[INFO][2016-12-26 15:06:49,822][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:06:49,823][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:06:50,325][DICLOG]init core library ok use time :491
+[INFO][2016-12-26 15:06:51,119][DICLOG]init ngram ok use time :740
+[INFO][2016-12-26 15:09:16,489][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:09:16,490][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:09:16,992][DICLOG]init core library ok use time :491
+[INFO][2016-12-26 15:09:17,799][DICLOG]init ngram ok use time :785
+[INFO][2016-12-26 15:09:35,406][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:09:35,408][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:09:35,912][DICLOG]init core library ok use time :494
+[INFO][2016-12-26 15:09:36,717][DICLOG]init ngram ok use time :749
+[INFO][2016-12-26 15:10:17,399][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:10:17,400][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:10:17,910][DICLOG]init core library ok use time :500
+[INFO][2016-12-26 15:10:18,715][DICLOG]init ngram ok use time :749
+[INFO][2016-12-26 15:12:49,144][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:12:49,145][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:12:49,641][DICLOG]init core library ok use time :486
+[INFO][2016-12-26 15:12:50,424][DICLOG]init ngram ok use time :730
+[INFO][2016-12-26 15:13:09,174][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:13:09,175][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:13:09,666][DICLOG]init core library ok use time :480
+[INFO][2016-12-26 15:13:10,446][DICLOG]init ngram ok use time :723
+[INFO][2016-12-26 15:23:32,203][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:23:32,204][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:23:32,724][DICLOG]init core library ok use time :510
+[INFO][2016-12-26 15:23:33,506][DICLOG]init ngram ok use time :727
+[INFO][2016-12-26 15:24:52,170][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:24:52,171][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:24:52,679][DICLOG]init core library ok use time :498
+[INFO][2016-12-26 15:24:53,478][DICLOG]init ngram ok use time :745
+[INFO][2016-12-26 15:25:18,070][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:25:18,072][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:25:18,610][DICLOG]init core library ok use time :527
+[INFO][2016-12-26 15:25:19,435][DICLOG]init ngram ok use time :769
+[INFO][2016-12-26 15:25:39,418][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:25:39,419][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:25:39,938][DICLOG]init core library ok use time :508
+[INFO][2016-12-26 15:25:40,743][DICLOG]init ngram ok use time :751
+[INFO][2016-12-26 15:25:54,131][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:25:54,132][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:25:54,632][DICLOG]init core library ok use time :489
+[INFO][2016-12-26 15:25:55,435][DICLOG]init ngram ok use time :747
+[INFO][2016-12-26 15:26:24,710][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:26:24,711][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:26:25,223][DICLOG]init core library ok use time :502
+[INFO][2016-12-26 15:26:26,093][DICLOG]init ngram ok use time :817
+[INFO][2016-12-26 15:26:49,004][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:26:49,005][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:26:49,501][DICLOG]init core library ok use time :486
+[INFO][2016-12-26 15:26:50,289][DICLOG]init ngram ok use time :733
+[INFO][2016-12-26 15:27:06,977][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:27:06,978][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:27:07,497][DICLOG]init core library ok use time :507
+[INFO][2016-12-26 15:27:08,308][DICLOG]init ngram ok use time :757
+[INFO][2016-12-26 15:29:06,721][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:29:06,721][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:29:07,225][DICLOG]init core library ok use time :492
+[INFO][2016-12-26 15:29:08,027][DICLOG]init ngram ok use time :749
+[INFO][2016-12-26 15:29:44,392][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:29:44,393][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:29:44,914][DICLOG]init core library ok use time :510
+[INFO][2016-12-26 15:29:45,697][DICLOG]init ngram ok use time :730
+[INFO][2016-12-26 15:30:12,982][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:30:12,983][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:30:13,552][DICLOG]init core library ok use time :557
+[INFO][2016-12-26 15:30:14,423][DICLOG]init ngram ok use time :849
+[INFO][2016-12-26 15:30:33,197][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:30:33,198][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:30:33,714][DICLOG]init core library ok use time :505
+[INFO][2016-12-26 15:30:34,584][DICLOG]init ngram ok use time :815
+[INFO][2016-12-26 15:30:48,898][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:30:48,899][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:30:49,408][DICLOG]init core library ok use time :497
+[INFO][2016-12-26 15:30:50,203][DICLOG]init ngram ok use time :741
+[INFO][2016-12-26 15:32:44,002][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:32:44,004][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:32:44,526][DICLOG]init core library ok use time :511
+[INFO][2016-12-26 15:32:45,328][DICLOG]init ngram ok use time :748
+[INFO][2016-12-26 15:35:48,726][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:35:48,727][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:35:49,219][DICLOG]init core library ok use time :482
+[INFO][2016-12-26 15:35:50,020][DICLOG]init ngram ok use time :747
+[INFO][2016-12-26 15:36:05,351][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:36:05,352][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:36:06,184][DICLOG]init core library ok use time :820
+[INFO][2016-12-26 15:36:07,307][DICLOG]init ngram ok use time :1057
+[INFO][2016-12-26 15:37:27,995][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:37:27,996][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:37:28,571][DICLOG]init core library ok use time :565
+[INFO][2016-12-26 15:37:29,433][DICLOG]init ngram ok use time :799
+[INFO][2016-12-26 15:37:49,236][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:37:49,237][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:37:49,828][DICLOG]init core library ok use time :579
+[INFO][2016-12-26 15:37:50,690][DICLOG]init ngram ok use time :803
+[INFO][2016-12-26 15:41:59,768][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:41:59,769][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:42:00,358][DICLOG]init core library ok use time :577
+[INFO][2016-12-26 15:42:01,229][DICLOG]init ngram ok use time :815
+[INFO][2016-12-26 15:42:50,188][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 15:42:50,189][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 15:42:50,788][DICLOG]init core library ok use time :588
+[INFO][2016-12-26 15:42:51,663][DICLOG]init ngram ok use time :816
+[INFO][2016-12-26 16:04:22,514][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:04:22,514][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:04:23,093][DICLOG]init core library ok use time :565
+[INFO][2016-12-26 16:04:23,973][DICLOG]init ngram ok use time :821
+[INFO][2016-12-26 16:07:15,503][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:07:15,504][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:07:16,056][DICLOG]init core library ok use time :539
+[INFO][2016-12-26 16:07:16,883][DICLOG]init ngram ok use time :771
+[INFO][2016-12-26 16:08:21,832][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:08:21,834][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:08:22,369][DICLOG]init core library ok use time :522
+[INFO][2016-12-26 16:08:23,220][DICLOG]init ngram ok use time :791
+[INFO][2016-12-26 16:09:07,399][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:09:07,400][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:09:07,937][DICLOG]init core library ok use time :525
+[INFO][2016-12-26 16:09:08,773][DICLOG]init ngram ok use time :776
+[INFO][2016-12-26 16:09:37,107][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:09:37,108][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:09:37,653][DICLOG]init core library ok use time :531
+[INFO][2016-12-26 16:09:38,473][DICLOG]init ngram ok use time :762
+[INFO][2016-12-26 16:10:47,529][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:10:47,530][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:10:48,065][DICLOG]init core library ok use time :524
+[INFO][2016-12-26 16:10:48,887][DICLOG]init ngram ok use time :765
+[INFO][2016-12-26 16:38:05,106][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:38:05,107][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:38:05,682][DICLOG]init core library ok use time :563
+[INFO][2016-12-26 16:38:06,605][DICLOG]init ngram ok use time :895
+[INFO][2016-12-26 16:40:43,877][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:40:43,878][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:40:44,436][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 16:40:45,306][DICLOG]init ngram ok use time :810
+[INFO][2016-12-26 16:42:26,878][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:42:26,879][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:42:27,429][DICLOG]init core library ok use time :538
+[INFO][2016-12-26 16:42:28,350][DICLOG]init ngram ok use time :894
+[INFO][2016-12-26 16:42:41,017][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:42:41,018][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:42:41,562][DICLOG]init core library ok use time :533
+[INFO][2016-12-26 16:42:42,409][DICLOG]init ngram ok use time :787
+[INFO][2016-12-26 16:43:56,712][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:43:56,713][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:43:57,265][DICLOG]init core library ok use time :540
+[INFO][2016-12-26 16:43:58,116][DICLOG]init ngram ok use time :828
+[INFO][2016-12-26 16:48:12,275][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:48:12,276][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:48:12,845][DICLOG]init core library ok use time :556
+[INFO][2016-12-26 16:48:13,814][DICLOG]init ngram ok use time :945
+[INFO][2016-12-26 16:48:17,170][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 16:48:17,170][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 16:48:17,728][DICLOG]init core library ok use time :546
+[INFO][2016-12-26 16:48:18,605][DICLOG]init ngram ok use time :820
+[INFO][2016-12-26 17:01:43,901][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:01:43,902][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:01:44,443][DICLOG]init core library ok use time :528
+[INFO][2016-12-26 17:01:45,333][DICLOG]init ngram ok use time :864
+[INFO][2016-12-26 17:05:49,645][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:05:49,646][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:05:50,188][DICLOG]init core library ok use time :531
+[INFO][2016-12-26 17:05:51,105][DICLOG]init ngram ok use time :891
+[INFO][2016-12-26 17:06:53,934][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:06:53,935][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:06:54,503][DICLOG]init core library ok use time :556
+[INFO][2016-12-26 17:06:55,447][DICLOG]init ngram ok use time :914
+[INFO][2016-12-26 17:07:03,924][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:07:03,925][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:07:04,494][DICLOG]init core library ok use time :557
+[INFO][2016-12-26 17:07:05,357][DICLOG]init ngram ok use time :839
+[INFO][2016-12-26 17:07:24,690][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:07:24,691][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:07:25,252][DICLOG]init core library ok use time :550
+[INFO][2016-12-26 17:07:26,140][DICLOG]init ngram ok use time :830
+[INFO][2016-12-26 17:10:33,161][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:10:33,162][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:10:33,737][DICLOG]init core library ok use time :564
+[INFO][2016-12-26 17:10:34,613][DICLOG]init ngram ok use time :816
+[INFO][2016-12-26 17:10:49,861][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:10:49,862][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:10:50,420][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 17:10:51,284][DICLOG]init ngram ok use time :808
+[INFO][2016-12-26 17:11:01,640][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:11:01,640][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:11:02,199][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 17:11:03,067][DICLOG]init ngram ok use time :809
+[INFO][2016-12-26 17:11:14,216][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:11:14,217][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:11:14,799][DICLOG]init core library ok use time :570
+[INFO][2016-12-26 17:11:15,665][DICLOG]init ngram ok use time :806
+[INFO][2016-12-26 17:15:04,486][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:15:04,486][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:15:05,021][DICLOG]init core library ok use time :524
+[INFO][2016-12-26 17:15:05,856][DICLOG]init ngram ok use time :779
+[INFO][2016-12-26 17:15:13,756][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:15:13,757][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:15:14,294][DICLOG]init core library ok use time :525
+[INFO][2016-12-26 17:15:15,122][DICLOG]init ngram ok use time :769
+[INFO][2016-12-26 17:23:46,347][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:23:46,348][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:23:46,874][DICLOG]init core library ok use time :516
+[INFO][2016-12-26 17:23:47,710][DICLOG]init ngram ok use time :814
+[INFO][2016-12-26 17:23:59,750][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:23:59,751][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:24:00,311][DICLOG]init core library ok use time :549
+[INFO][2016-12-26 17:24:01,187][DICLOG]init ngram ok use time :851
+[INFO][2016-12-26 17:24:30,907][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:24:30,908][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:24:31,470][DICLOG]init core library ok use time :551
+[INFO][2016-12-26 17:24:32,295][DICLOG]init ngram ok use time :766
+[INFO][2016-12-26 17:24:49,349][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:24:49,350][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:24:49,887][DICLOG]init core library ok use time :525
+[INFO][2016-12-26 17:24:50,762][DICLOG]init ngram ok use time :851
+[INFO][2016-12-26 17:25:07,032][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:25:07,033][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:25:07,566][DICLOG]init core library ok use time :523
+[INFO][2016-12-26 17:25:08,403][DICLOG]init ngram ok use time :782
+[INFO][2016-12-26 17:25:22,289][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:25:22,291][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:25:22,828][DICLOG]init core library ok use time :525
+[INFO][2016-12-26 17:25:23,643][DICLOG]init ngram ok use time :760
+[INFO][2016-12-26 17:25:38,804][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:25:38,804][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:25:39,322][DICLOG]init core library ok use time :505
+[INFO][2016-12-26 17:25:40,161][DICLOG]init ngram ok use time :783
+[INFO][2016-12-26 17:25:52,465][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:25:52,466][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:25:52,991][DICLOG]init core library ok use time :515
+[INFO][2016-12-26 17:25:53,812][DICLOG]init ngram ok use time :760
+[INFO][2016-12-26 17:30:36,181][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:30:36,182][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:30:36,720][DICLOG]init core library ok use time :528
+[INFO][2016-12-26 17:30:37,540][DICLOG]init ngram ok use time :762
+[INFO][2016-12-26 17:33:26,625][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:33:26,626][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:33:27,170][DICLOG]init core library ok use time :534
+[INFO][2016-12-26 17:33:27,979][DICLOG]init ngram ok use time :753
+[INFO][2016-12-26 17:33:33,158][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:33:33,159][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:33:33,698][DICLOG]init core library ok use time :526
+[INFO][2016-12-26 17:33:34,589][DICLOG]init ngram ok use time :866
+[INFO][2016-12-26 17:33:42,887][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:33:42,888][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:33:43,418][DICLOG]init core library ok use time :520
+[INFO][2016-12-26 17:33:44,253][DICLOG]init ngram ok use time :807
+[INFO][2016-12-26 17:33:54,627][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:33:54,628][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:33:55,187][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 17:33:56,007][DICLOG]init ngram ok use time :761
+[INFO][2016-12-26 17:34:49,476][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:34:49,476][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:34:50,035][DICLOG]init core library ok use time :548
+[INFO][2016-12-26 17:34:50,894][DICLOG]init ngram ok use time :800
+[INFO][2016-12-26 17:34:59,340][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:34:59,341][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:34:59,917][DICLOG]init core library ok use time :565
+[INFO][2016-12-26 17:35:00,787][DICLOG]init ngram ok use time :811
+[INFO][2016-12-26 17:35:08,975][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:35:08,975][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:35:09,553][DICLOG]init core library ok use time :566
+[INFO][2016-12-26 17:35:10,500][DICLOG]init ngram ok use time :918
+[INFO][2016-12-26 17:37:28,638][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:37:28,639][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:37:29,208][DICLOG]init core library ok use time :557
+[INFO][2016-12-26 17:37:30,071][DICLOG]init ngram ok use time :805
+[INFO][2016-12-26 17:41:28,883][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:41:28,884][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:41:29,418][DICLOG]init core library ok use time :522
+[INFO][2016-12-26 17:41:30,294][DICLOG]init ngram ok use time :850
+[INFO][2016-12-26 17:41:35,520][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:41:35,521][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:41:36,050][DICLOG]init core library ok use time :519
+[INFO][2016-12-26 17:41:36,934][DICLOG]init ngram ok use time :858
+[INFO][2016-12-26 17:48:59,480][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:48:59,481][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:49:00,026][DICLOG]init core library ok use time :534
+[INFO][2016-12-26 17:49:00,917][DICLOG]init ngram ok use time :865
+[INFO][2016-12-26 17:49:14,898][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:49:14,899][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:49:15,430][DICLOG]init core library ok use time :521
+[INFO][2016-12-26 17:49:16,247][DICLOG]init ngram ok use time :762
+[INFO][2016-12-26 17:54:24,283][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:24,284][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:24,856][DICLOG]init core library ok use time :560
+[INFO][2016-12-26 17:54:25,752][DICLOG]init ngram ok use time :871
+[INFO][2016-12-26 17:54:30,556][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:30,556][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:31,124][DICLOG]init core library ok use time :555
+[INFO][2016-12-26 17:54:31,973][DICLOG]init ngram ok use time :793
+[INFO][2016-12-26 17:54:36,606][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:36,607][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:37,166][DICLOG]init core library ok use time :548
+[INFO][2016-12-26 17:54:38,022][DICLOG]init ngram ok use time :832
+[INFO][2016-12-26 17:54:42,904][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:42,905][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:43,470][DICLOG]init core library ok use time :553
+[INFO][2016-12-26 17:54:44,337][DICLOG]init ngram ok use time :809
+[INFO][2016-12-26 17:54:49,355][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:49,356][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:49,915][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 17:54:50,835][DICLOG]init ngram ok use time :898
+[INFO][2016-12-26 17:54:54,688][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:54:54,689][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:54:55,264][DICLOG]init core library ok use time :564
+[INFO][2016-12-26 17:54:56,125][DICLOG]init ngram ok use time :803
+[INFO][2016-12-26 17:56:30,765][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:56:30,766][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:56:31,297][DICLOG]init core library ok use time :520
+[INFO][2016-12-26 17:56:32,220][DICLOG]init ngram ok use time :900
+[INFO][2016-12-26 17:56:42,584][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:56:42,585][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:56:43,118][DICLOG]init core library ok use time :521
+[INFO][2016-12-26 17:56:43,951][DICLOG]init ngram ok use time :810
+[INFO][2016-12-26 17:56:50,007][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:56:50,008][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:56:50,581][DICLOG]init core library ok use time :560
+[INFO][2016-12-26 17:56:51,463][DICLOG]init ngram ok use time :821
+[INFO][2016-12-26 17:57:54,776][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:57:54,777][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:57:55,318][DICLOG]init core library ok use time :529
+[INFO][2016-12-26 17:57:56,180][DICLOG]init ngram ok use time :831
+[INFO][2016-12-26 17:59:03,774][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:59:03,775][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:59:04,416][DICLOG]init core library ok use time :628
+[INFO][2016-12-26 17:59:05,323][DICLOG]init ngram ok use time :879
+[INFO][2016-12-26 17:59:33,559][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 17:59:33,560][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 17:59:34,134][DICLOG]init core library ok use time :563
+[INFO][2016-12-26 17:59:35,020][DICLOG]init ngram ok use time :855
+[INFO][2016-12-26 18:00:12,967][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:00:12,968][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:00:13,539][DICLOG]init core library ok use time :560
+[INFO][2016-12-26 18:00:14,403][DICLOG]init ngram ok use time :804
+[INFO][2016-12-26 18:00:40,306][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:00:40,307][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:00:40,898][DICLOG]init core library ok use time :577
+[INFO][2016-12-26 18:00:41,772][DICLOG]init ngram ok use time :851
+[INFO][2016-12-26 18:01:05,051][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:01:05,052][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:01:05,625][DICLOG]init core library ok use time :561
+[INFO][2016-12-26 18:01:06,486][DICLOG]init ngram ok use time :834
+[INFO][2016-12-26 18:08:08,240][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:08:08,241][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:08:08,813][DICLOG]init core library ok use time :560
+[INFO][2016-12-26 18:08:09,684][DICLOG]init ngram ok use time :849
+[INFO][2016-12-26 18:09:07,934][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:09:07,934][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:09:08,507][DICLOG]init core library ok use time :562
+[INFO][2016-12-26 18:09:09,365][DICLOG]init ngram ok use time :836
+[INFO][2016-12-26 18:09:29,652][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:09:29,653][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:09:30,193][DICLOG]init core library ok use time :529
+[INFO][2016-12-26 18:09:31,044][DICLOG]init ngram ok use time :828
+[INFO][2016-12-26 18:09:38,793][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:09:38,795][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:09:39,373][DICLOG]init core library ok use time :567
+[INFO][2016-12-26 18:09:40,230][DICLOG]init ngram ok use time :833
+[INFO][2016-12-26 18:11:39,787][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:11:39,788][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:11:40,386][DICLOG]init core library ok use time :585
+[INFO][2016-12-26 18:11:41,249][DICLOG]init ngram ok use time :840
+[INFO][2016-12-26 18:13:31,483][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 18:13:31,484][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 18:13:32,043][DICLOG]init core library ok use time :548
+[INFO][2016-12-26 18:13:32,882][DICLOG]init ngram ok use time :816
+[INFO][2016-12-26 20:04:57,846][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:04:57,847][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:04:58,474][DICLOG]init core library ok use time :616
+[INFO][2016-12-26 20:04:59,402][DICLOG]init ngram ok use time :900
+[INFO][2016-12-26 20:05:37,102][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:05:37,103][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:05:37,681][DICLOG]init core library ok use time :565
+[INFO][2016-12-26 20:05:38,578][DICLOG]init ngram ok use time :838
+[INFO][2016-12-26 20:07:45,548][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:07:45,550][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:07:46,098][DICLOG]init core library ok use time :537
+[INFO][2016-12-26 20:07:46,948][DICLOG]init ngram ok use time :824
+[INFO][2016-12-26 20:12:06,593][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:12:06,594][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:12:07,156][DICLOG]init core library ok use time :551
+[INFO][2016-12-26 20:12:08,040][DICLOG]init ngram ok use time :858
+[INFO][2016-12-26 20:13:47,756][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:13:47,757][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:13:48,316][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 20:13:49,188][DICLOG]init ngram ok use time :846
+[INFO][2016-12-26 20:14:34,154][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:14:34,155][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:14:34,733][DICLOG]init core library ok use time :567
+[INFO][2016-12-26 20:14:35,600][DICLOG]init ngram ok use time :842
+[INFO][2016-12-26 20:17:21,385][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:17:21,386][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:17:21,925][DICLOG]init core library ok use time :525
+[INFO][2016-12-26 20:17:22,751][DICLOG]init ngram ok use time :800
+[INFO][2016-12-26 20:23:08,314][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:23:08,315][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:23:08,889][DICLOG]init core library ok use time :562
+[INFO][2016-12-26 20:23:09,739][DICLOG]init ngram ok use time :825
+[INFO][2016-12-26 20:25:07,702][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:25:07,703][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:25:08,250][DICLOG]init core library ok use time :535
+[INFO][2016-12-26 20:25:09,125][DICLOG]init ngram ok use time :848
+[INFO][2016-12-26 20:26:00,720][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:26:00,721][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:26:01,231][DICLOG]init core library ok use time :499
+[INFO][2016-12-26 20:26:02,059][DICLOG]init ngram ok use time :802
+[INFO][2016-12-26 20:27:57,378][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:27:57,379][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:27:57,919][DICLOG]init core library ok use time :529
+[INFO][2016-12-26 20:27:58,762][DICLOG]init ngram ok use time :818
+[INFO][2016-12-26 20:32:04,741][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:32:04,741][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:32:05,299][DICLOG]init core library ok use time :547
+[INFO][2016-12-26 20:32:06,160][DICLOG]init ngram ok use time :838
+[INFO][2016-12-26 20:33:35,272][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:33:35,273][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:33:35,820][DICLOG]init core library ok use time :533
+[INFO][2016-12-26 20:33:36,658][DICLOG]init ngram ok use time :811
+[INFO][2016-12-26 20:34:25,976][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:34:25,977][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:34:26,518][DICLOG]init core library ok use time :529
+[INFO][2016-12-26 20:34:27,376][DICLOG]init ngram ok use time :835
+[INFO][2016-12-26 20:56:23,236][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 20:56:23,237][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 20:56:23,825][DICLOG]init core library ok use time :575
+[INFO][2016-12-26 20:56:24,710][DICLOG]init ngram ok use time :859
+[INFO][2016-12-26 21:36:00,714][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:36:00,715][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:36:01,278][DICLOG]init core library ok use time :551
+[INFO][2016-12-26 21:36:02,145][DICLOG]init ngram ok use time :805
+[INFO][2016-12-26 21:37:10,735][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:37:10,736][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:37:11,322][DICLOG]init core library ok use time :574
+[INFO][2016-12-26 21:37:12,201][DICLOG]init ngram ok use time :816
+[INFO][2016-12-26 21:40:16,121][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:40:16,122][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:40:16,686][DICLOG]init core library ok use time :551
+[INFO][2016-12-26 21:40:17,619][DICLOG]init ngram ok use time :872
+[INFO][2016-12-26 21:41:30,607][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:41:30,608][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:41:31,220][DICLOG]init core library ok use time :598
+[INFO][2016-12-26 21:41:32,118][DICLOG]init ngram ok use time :872
+[INFO][2016-12-26 21:59:04,018][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:59:04,020][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:59:04,664][DICLOG]init core library ok use time :629
+[INFO][2016-12-26 21:59:05,602][DICLOG]init ngram ok use time :907
+[INFO][2016-12-26 21:59:23,585][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 21:59:23,586][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 21:59:24,209][DICLOG]init core library ok use time :611
+[INFO][2016-12-26 21:59:25,069][DICLOG]init ngram ok use time :836
+[INFO][2016-12-26 22:12:56,725][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 22:12:56,726][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 22:12:57,273][DICLOG]init core library ok use time :536
+[INFO][2016-12-26 22:12:58,138][DICLOG]init ngram ok use time :842
+[INFO][2016-12-26 22:17:40,347][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 22:17:40,348][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 22:17:40,923][DICLOG]init core library ok use time :562
+[INFO][2016-12-26 22:17:41,784][DICLOG]init ngram ok use time :833
+[INFO][2016-12-26 22:18:28,696][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-26 22:18:28,697][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-26 22:18:29,244][DICLOG]init core library ok use time :535
+[INFO][2016-12-26 22:18:30,096][DICLOG]init ngram ok use time :828
+[INFO][2016-12-27 13:03:43,534][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:03:43,535][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:03:44,099][DICLOG]init core library ok use time :551
+[INFO][2016-12-27 13:03:44,968][DICLOG]init ngram ok use time :844
+[INFO][2016-12-27 13:04:35,139][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:04:35,140][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:04:35,709][DICLOG]init core library ok use time :554
+[INFO][2016-12-27 13:04:36,552][DICLOG]init ngram ok use time :816
+[INFO][2016-12-27 13:05:20,384][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:05:20,385][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:05:20,997][DICLOG]init core library ok use time :587
+[INFO][2016-12-27 13:05:21,822][DICLOG]init ngram ok use time :798
+[INFO][2016-12-27 13:08:13,672][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:08:13,673][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:08:14,266][DICLOG]init core library ok use time :580
+[INFO][2016-12-27 13:08:15,129][DICLOG]init ngram ok use time :838
+[INFO][2016-12-27 13:09:08,172][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:09:08,174][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:09:08,828][DICLOG]init core library ok use time :644
+[INFO][2016-12-27 13:09:09,710][DICLOG]init ngram ok use time :849
+[INFO][2016-12-27 13:10:06,199][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:10:06,200][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:10:06,769][DICLOG]init core library ok use time :556
+[INFO][2016-12-27 13:10:07,639][DICLOG]init ngram ok use time :847
+[INFO][2016-12-27 13:11:13,499][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:11:13,500][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:11:14,056][DICLOG]init core library ok use time :545
+[INFO][2016-12-27 13:11:14,921][DICLOG]init ngram ok use time :839
+[INFO][2016-12-27 13:11:51,617][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:11:51,618][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:11:52,206][DICLOG]init core library ok use time :576
+[INFO][2016-12-27 13:11:53,071][DICLOG]init ngram ok use time :838
+[INFO][2016-12-27 13:12:28,474][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:12:28,475][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:12:29,045][DICLOG]init core library ok use time :558
+[INFO][2016-12-27 13:12:29,896][DICLOG]init ngram ok use time :825
+[INFO][2016-12-27 13:14:56,731][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:14:56,732][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:14:57,307][DICLOG]init core library ok use time :562
+[INFO][2016-12-27 13:14:58,164][DICLOG]init ngram ok use time :833
+[INFO][2016-12-27 13:33:19,191][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:33:19,192][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:33:19,763][DICLOG]init core library ok use time :558
+[INFO][2016-12-27 13:33:20,603][DICLOG]init ngram ok use time :817
+[INFO][2016-12-27 13:33:33,975][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:33:33,978][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:33:34,545][DICLOG]init core library ok use time :556
+[INFO][2016-12-27 13:33:35,390][DICLOG]init ngram ok use time :819
+[INFO][2016-12-27 13:59:07,353][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 13:59:07,354][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 13:59:07,949][DICLOG]init core library ok use time :583
+[INFO][2016-12-27 13:59:08,811][DICLOG]init ngram ok use time :835
+[INFO][2016-12-27 14:00:15,999][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:00:16,000][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:00:16,569][DICLOG]init core library ok use time :557
+[INFO][2016-12-27 14:00:17,521][DICLOG]init ngram ok use time :924
+[INFO][2016-12-27 14:01:10,377][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:01:10,379][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:01:11,095][DICLOG]init core library ok use time :700
+[INFO][2016-12-27 14:01:11,989][DICLOG]init ngram ok use time :862
+[INFO][2016-12-27 14:01:31,338][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:01:31,339][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:01:31,981][DICLOG]init core library ok use time :629
+[INFO][2016-12-27 14:01:32,933][DICLOG]init ngram ok use time :922
+[INFO][2016-12-27 14:03:12,016][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:03:12,017][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:03:12,582][DICLOG]init core library ok use time :553
+[INFO][2016-12-27 14:03:13,477][DICLOG]init ngram ok use time :871
+[INFO][2016-12-27 14:04:30,724][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:04:30,725][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:04:31,327][DICLOG]init core library ok use time :589
+[INFO][2016-12-27 14:04:32,241][DICLOG]init ngram ok use time :887
+[INFO][2016-12-27 14:05:45,363][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:05:45,364][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:05:45,944][DICLOG]init core library ok use time :567
+[INFO][2016-12-27 14:05:46,848][DICLOG]init ngram ok use time :880
+[INFO][2016-12-27 14:07:37,897][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:07:37,898][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:07:38,489][DICLOG]init core library ok use time :578
+[INFO][2016-12-27 14:07:39,370][DICLOG]init ngram ok use time :855
+[INFO][2016-12-27 14:07:53,268][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:07:53,269][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:07:53,891][DICLOG]init core library ok use time :609
+[INFO][2016-12-27 14:07:54,821][DICLOG]init ngram ok use time :907
+[INFO][2016-12-27 14:08:17,358][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:08:17,360][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:08:18,006][DICLOG]init core library ok use time :634
+[INFO][2016-12-27 14:08:18,895][DICLOG]init ngram ok use time :858
+[INFO][2016-12-27 14:09:06,332][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:09:06,333][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:09:06,937][DICLOG]init core library ok use time :590
+[INFO][2016-12-27 14:09:07,921][DICLOG]init ngram ok use time :924
+[INFO][2016-12-27 14:11:14,958][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:11:14,959][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:11:15,586][DICLOG]init core library ok use time :616
+[INFO][2016-12-27 14:11:16,462][DICLOG]init ngram ok use time :850
+[INFO][2016-12-27 14:11:47,612][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:11:47,613][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:11:48,262][DICLOG]init core library ok use time :636
+[INFO][2016-12-27 14:11:49,199][DICLOG]init ngram ok use time :908
+[INFO][2016-12-27 14:12:12,934][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:12:12,935][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:12:13,534][DICLOG]init core library ok use time :587
+[INFO][2016-12-27 14:12:14,405][DICLOG]init ngram ok use time :812
+[INFO][2016-12-27 14:12:47,483][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:12:47,484][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:12:48,105][DICLOG]init core library ok use time :608
+[INFO][2016-12-27 14:12:48,921][DICLOG]init ngram ok use time :792
+[INFO][2016-12-27 14:14:13,762][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:14:13,763][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:14:14,397][DICLOG]init core library ok use time :621
+[INFO][2016-12-27 14:14:15,380][DICLOG]init ngram ok use time :923
+[INFO][2016-12-27 14:16:04,456][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:16:04,457][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:16:05,059][DICLOG]init core library ok use time :591
+[INFO][2016-12-27 14:16:05,950][DICLOG]init ngram ok use time :859
+[INFO][2016-12-27 14:16:47,804][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:16:47,805][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:16:48,420][DICLOG]init core library ok use time :603
+[INFO][2016-12-27 14:16:49,388][DICLOG]init ngram ok use time :911
+[INFO][2016-12-27 14:17:05,419][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:17:05,420][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:17:05,997][DICLOG]init core library ok use time :565
+[INFO][2016-12-27 14:17:06,863][DICLOG]init ngram ok use time :841
+[INFO][2016-12-27 14:20:14,937][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:20:14,938][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:20:15,654][DICLOG]init core library ok use time :692
+[INFO][2016-12-27 14:20:16,714][DICLOG]init ngram ok use time :1024
+[INFO][2016-12-27 14:20:51,770][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:20:51,771][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:20:52,471][DICLOG]init core library ok use time :685
+[INFO][2016-12-27 14:20:53,539][DICLOG]init ngram ok use time :1027
+[INFO][2016-12-27 14:21:09,769][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:21:09,771][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:21:10,600][DICLOG]init core library ok use time :814
+[INFO][2016-12-27 14:21:11,691][DICLOG]init ngram ok use time :1057
+[INFO][2016-12-27 14:24:15,207][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:24:15,208][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:24:15,757][DICLOG]init core library ok use time :539
+[INFO][2016-12-27 14:24:16,617][DICLOG]init ngram ok use time :833
+[INFO][2016-12-27 14:29:01,406][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:29:01,407][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:29:01,981][DICLOG]init core library ok use time :564
+[INFO][2016-12-27 14:29:02,832][DICLOG]init ngram ok use time :819
+[INFO][2016-12-27 14:50:40,735][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:50:40,736][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:50:41,287][DICLOG]init core library ok use time :541
+[INFO][2016-12-27 14:50:42,136][DICLOG]init ngram ok use time :821
+[INFO][2016-12-27 14:54:46,512][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:54:46,513][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:54:47,086][DICLOG]init core library ok use time :563
+[INFO][2016-12-27 14:54:47,959][DICLOG]init ngram ok use time :845
+[INFO][2016-12-27 14:55:01,090][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:55:01,091][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:55:01,676][DICLOG]init core library ok use time :574
+[INFO][2016-12-27 14:55:02,545][DICLOG]init ngram ok use time :843
+[INFO][2016-12-27 14:58:31,994][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 14:58:31,995][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 14:58:32,583][DICLOG]init core library ok use time :576
+[INFO][2016-12-27 14:58:33,435][DICLOG]init ngram ok use time :821
+[INFO][2016-12-27 15:05:42,285][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 15:05:42,286][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 15:05:42,853][DICLOG]init core library ok use time :554
+[INFO][2016-12-27 15:05:43,716][DICLOG]init ngram ok use time :832
+[INFO][2016-12-27 15:26:49,867][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 15:26:49,868][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 15:26:50,441][DICLOG]init core library ok use time :561
+[INFO][2016-12-27 15:26:51,291][DICLOG]init ngram ok use time :822
+[INFO][2016-12-27 20:28:55,158][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:28:55,170][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:28:55,762][DICLOG]init core library ok use time :581
+[INFO][2016-12-27 20:28:56,626][DICLOG]init ngram ok use time :835
+[INFO][2016-12-27 20:30:59,432][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:30:59,432][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:30:59,984][DICLOG]init core library ok use time :541
+[INFO][2016-12-27 20:31:00,834][DICLOG]init ngram ok use time :787
+[INFO][2016-12-27 20:31:32,440][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:31:32,441][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:31:33,001][DICLOG]init core library ok use time :547
+[INFO][2016-12-27 20:31:33,868][DICLOG]init ngram ok use time :800
+[INFO][2016-12-27 20:32:13,333][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:32:13,334][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:32:13,897][DICLOG]init core library ok use time :551
+[INFO][2016-12-27 20:32:14,745][DICLOG]init ngram ok use time :818
+[INFO][2016-12-27 20:41:43,441][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:41:43,442][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:41:43,999][DICLOG]init core library ok use time :546
+[INFO][2016-12-27 20:41:44,892][DICLOG]init ngram ok use time :829
+[INFO][2016-12-27 20:52:36,006][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 20:52:36,007][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 20:52:36,616][DICLOG]init core library ok use time :596
+[INFO][2016-12-27 20:52:37,547][DICLOG]init ngram ok use time :866
+[INFO][2016-12-27 21:33:52,543][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 21:33:52,544][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 21:33:53,122][DICLOG]init core library ok use time :568
+[INFO][2016-12-27 21:33:54,001][DICLOG]init ngram ok use time :846
+[INFO][2016-12-27 21:34:48,102][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 21:34:48,103][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 21:34:48,668][DICLOG]init core library ok use time :554
+[INFO][2016-12-27 21:34:49,532][DICLOG]init ngram ok use time :799
+[INFO][2016-12-27 21:35:11,432][DICLOG]init user userLibrary ok path is : D:\workspace\java\Bayes\library\default.dic
+[INFO][2016-12-27 21:35:11,433][DICLOG]init ambiguityLibrary ok!
+[INFO][2016-12-27 21:35:11,998][DICLOG]init core library ok use time :553
+[INFO][2016-12-27 21:35:12,861][DICLOG]init ngram ok use time :833
